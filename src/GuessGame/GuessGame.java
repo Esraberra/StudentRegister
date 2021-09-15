@@ -20,7 +20,7 @@ public class GuessGame {
                 }
             }
             if (tahmin != sayi) {
-                System.out.println("Anlamadim dostum !!!");
+                System.out.println(" Artik cok gec !!!");
             }
         }
         public int randomGenerator() {
